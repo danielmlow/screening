@@ -2,7 +2,7 @@
 
 Having symptoms is normal and treatments are available. See if you have symptoms of the following conditions:
 
-<div style="text-align: right"> 
+<div style="text-align: left"> 
 
 * Depression
 * Anxiety disorders
