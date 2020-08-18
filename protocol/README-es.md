@@ -2,13 +2,18 @@
 
 Tener síntomas es normal y hay tratamientos disponibles. Puede ver si tiene síntomas de los siguientes trastornos:
 
-<div style="text-align: left">
 
-* Trastornos de ansiedad
-* Trastorno de estrés postraumático
-* Trastorno de alimentación
-* Trastorno Bipolar
-* Psicosis
-* Abuso de sustancias
-* Discapacidad
-</div>
+
+Trastornos de ansiedad
+
+Trastorno de estrés postraumático
+
+Trastorno de alimentación
+
+Trastorno Bipolar
+
+Psicosis
+
+Abuso de sustancias
+
+Discapacidad
