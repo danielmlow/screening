@@ -1,6 +1,9 @@
 ## Check if you have symptoms of a mental health condition
 
 Having symptoms is normal and treatments are available. See if you have symptoms of the following conditions:
+
+<div style="text-align: right"> 
+
 * Depression
 * Anxiety disorders
 * PTSD
@@ -9,3 +12,4 @@ Having symptoms is normal and treatments are available. See if you have symptoms
 * Psychosis
 * Substance use disorder
 * Disability
+</div>
